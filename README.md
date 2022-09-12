@@ -1,4 +1,4 @@
-# AZURE-MARKETPLACE-AGREEMENT
+# F5XC SITE STATUS CHECK
 
 This repository consists of Terraform templates to run F5XC site status check.
 
