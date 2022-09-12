@@ -17,7 +17,7 @@ variable "f5xc_namespace" {
 
 variable "f5xc_site_name" {
   type = string
-  default = "aa-poc-ce-1"
+  default = "sa-svc-site"
 }
 
 module "site_status_check" {
