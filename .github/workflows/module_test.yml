@@ -1,4 +1,4 @@
-name: F5XC site status check module
+name: F5XC Site status Check module
 on: workflow_dispatch
 jobs:
   f5-xc-site-status-check-module-validate:
